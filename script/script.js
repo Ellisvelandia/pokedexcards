@@ -88,3 +88,4 @@ search.addEventListener("change", async (event) => {
     ].style.color = `rgb(${mainColor[0]}, ${mainColor[1]}, ${mainColor[2]})`;
   });
 });
+
